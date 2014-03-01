@@ -45,7 +45,7 @@ public class parser {
 			if(limit == 0){
 				break;
 			}
-			System.out.println(Arrays.toString(comb));
+			//System.out.println(Arrays.toString(comb));
 			int i =0;
 			String[] temp = new String[pieces];
 			for(int a : comb){
